@@ -1,9 +1,32 @@
 /* GENERAL */
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat');
+
+
+@font-face {
+
+  font-family:"halflings-regular";
+  src: url(../font/glyphicons-halflings-regular.eot);
+  src: url(../font/glyphicons-halflings-regular.svg);
+  src: url(../font/glyphicons-halflings-regular.ttf);
+  src: url(../font/glyphicons-halflings-regular.woff);
+  src: url(../font/glyphicons-halflings-regular.woff2);
+  font-style: normal;
+  font-weight: 400;
+
+}
+
+
 body {
   
   background-color:rgba(255, 240, 225, 0.77);
   padding: 70px 0 0 0;
 
+}
+
+h1, p, a {
+
+  font-family: 'Montserrat', sans-serif;
+  
 }
 
 /*  HEADER  */
@@ -89,6 +112,12 @@ box-sizing: border-box;
   display: inline;
   margin-right: 10px;
  
+}
+
+.contenedor-slider {
+
+max-height: 235px;
+
 }
 
 .proximas-fechas-y-reproductor {
