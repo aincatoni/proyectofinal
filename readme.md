@@ -1,5 +1,9 @@
 # Proyecto Final DesafioLatam
 
+### Enlace al mockup del home en githubpages
+
+[https://aincatoni.github.io/proyectofinal/](https://aincatoni.github.io/proyectofinal/)
+
 ## El tema seleccionado: Sitio web + tienda online para la banda Espacio Volátil 
 
 
@@ -43,7 +47,8 @@
   - Sans-Serif
 
 ## Estructura de directorios:
-|
+
+```
 -- assets
 |   |-- css
 |   |-- font
@@ -53,6 +58,7 @@
 |   `-- js
 |-- index.html
 `-- readme.md
+```
 
 ## Sketch Pantallas:
 
