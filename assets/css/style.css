@@ -1,0 +1,191 @@
+/* GENERAL */
+body {
+  
+  background-color:rgba(255, 240, 225, 0.77);
+  padding: 70px 0 0 0;
+
+}
+
+/*  HEADER  */
+
+.barra-de-navegacion {
+
+  background-color: #f8f8f800;
+  border-color: #f8f8f800;
+  padding: 0 30px;
+  box-sizing: border-box;
+  
+}
+
+.barra-de-navegacion  .navbar-nav>.active>a, .barra-de-navegacion .navbar-nav>.active>a:focus, .barra-de-navegacion .navbar-nav>.active>a:hover {
+  color: #9e8174;
+  background-color: #fdf3ea82;
+
+}
+
+.barra-de-navegacion  .navbar-nav>li>a {
+  color: #9c948d;
+}
+.barra-marca {
+ text-indent: -10000px;
+
+}
+/*  MAIN  */
+
+main {
+  padding: 20px 0;
+  box-sizing: border-box;
+  margin: 0 0 100px 0;
+}
+
+.video-youtube {
+
+
+background-image: url(../img/portadaep.png); 
+padding: 60px 30px;
+box-sizing: border-box;
+
+  
+}
+
+.content-central-logo {
+
+  text-align: center;
+  margin: 0 0 120px 0;
+
+}
+
+.content-central__logo {
+
+  width: 40%;
+}
+
+ .video-youtube__titulo {
+
+  color: rgb(248, 204, 168);
+  font-size: 2.4em;
+  padding: 10px 0;
+  box-sizing: border-box;
+  text-align: center;
+
+ }
+
+ .video-youtube__titulo span {
+
+  font-size: 2em;
+  font-weight: bold;
+ }
+
+ .estamosTambien {
+
+  margin: 15px 0 80px 0;
+  text-align: center;
+  font-size: 3em;
+  color:#f7cda4;
+
+}
+ .estamosTambien ul li {
+
+  display: inline;
+  margin-right: 10px;
+ 
+}
+
+.proximas-fechas-y-reproductor {
+
+  margin: 20px 0;
+  color: #437776;
+}
+
+.proximas-fechas-y-reproductor a {
+
+  color: #72c5c7;
+  
+
+}
+
+.proximas-fechas {
+
+  padding: 0;;
+  
+}
+
+
+
+/*  FOOTER  */
+
+.pieDePagina {
+
+  min-height: 200px;
+  background-color: #e4ddd6;
+  padding: 50px 0;
+  color: #FFF;
+  box-sizing: border-box;
+    
+}
+
+.iconos-sociales ul li  {
+	
+		display: inline-block;
+		margin-right: 10px;
+	}
+
+.iconos-sociales ul {
+	
+		padding-left:0;
+	}
+
+.iconos-sociales	ul li i {
+  
+    color: aliceblue;
+    font-size: 1.5em;
+
+	}
+
+
+
+
+/* MEDIAQUERIES */
+
+@media (max-width: 480px) { 
+
+/* main */
+
+  .video-youtube__titulo {
+    font-size: 1.4em;
+    padding: 20px 0;
+    box-sizing: border-box;
+    
+  }
+
+  .video-youtube__titulo span {
+
+  font-size: 1.5em;
+  font-weight: bold;
+ }
+
+ .content-central-logo {
+
+
+  margin: 0 0 40px 0;
+
+}
+
+.content-central__logo {
+
+  width: 60%;
+}
+
+.estamosTambien {
+
+  margin: 15px 0 15px 0;
+  font-size: 3em;
+
+}
+
+/* footer */
+
+
+
+
+} 

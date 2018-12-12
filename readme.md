@@ -42,7 +42,22 @@
 - Tipografías
   - Sans-Serif
 
+## Estructura de directorios:
+|
+-- assets
+|   |-- css
+|   |-- font
+|   |-- img
+|   |   |-- sketchDesktop.png
+|   |   `-- sketchMobile.png
+|   `-- js
+|-- index.html
+`-- readme.md
 
 ## Sketch Pantallas:
 
-![alt text](/ "Title")
+### Mobile
+![alt text](assets/img/sketchMobile.png?raw=true "SketchDesktop")
+
+### Mobile
+![alt text](assets/img/sketchDesktop.png?raw=true "SketchDesktop")
