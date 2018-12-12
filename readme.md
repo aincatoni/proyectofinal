@@ -57,7 +57,8 @@
 ## Sketch Pantallas:
 
 ### Mobile
-![alt text](https://github.com/aincatoni/proyectofinal/assets/img/sketchMobile.png?raw=true "SketchDesktop")
+![sketchdesktop](https://user-images.githubusercontent.com/8588336/49902669-52c97b00-fe43-11e8-80a1-a7bbd017d164.png)
 
 ### Mobile
-![alt text](https://github.com/aincatoni/proyectofinal/assets/img/sketchDesktop.png?raw=true "SketchDesktop")
+
+![sketchmobile](https://user-images.githubusercontent.com/8588336/49902675-55c46b80-fe43-11e8-9baf-26c1ddd8be6c.png)
