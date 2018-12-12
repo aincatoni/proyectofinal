@@ -61,7 +61,7 @@
 ![sketchmobile](https://user-images.githubusercontent.com/8588336/49902675-55c46b80-fe43-11e8-9baf-26c1ddd8be6c.png)
 
 
-### Mobile
+### Desktop
 
 ![sketchdesktop](https://user-images.githubusercontent.com/8588336/49902669-52c97b00-fe43-11e8-80a1-a7bbd017d164.png)
 
