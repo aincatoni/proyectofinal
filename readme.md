@@ -57,8 +57,11 @@
 ## Sketch Pantallas:
 
 ### Mobile
-![sketchdesktop](https://user-images.githubusercontent.com/8588336/49902669-52c97b00-fe43-11e8-80a1-a7bbd017d164.png)
+
+![sketchmobile](https://user-images.githubusercontent.com/8588336/49902675-55c46b80-fe43-11e8-9baf-26c1ddd8be6c.png)
+
 
 ### Mobile
 
-![sketchmobile](https://user-images.githubusercontent.com/8588336/49902675-55c46b80-fe43-11e8-9baf-26c1ddd8be6c.png)
+![sketchdesktop](https://user-images.githubusercontent.com/8588336/49902669-52c97b00-fe43-11e8-80a1-a7bbd017d164.png)
+
