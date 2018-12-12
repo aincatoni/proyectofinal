@@ -44,7 +44,8 @@
 #### Recursos a utilizar
 
 - Tipografías
-  - Sans-Serif
+  - Monserrat
+  - Half
 
 ## Estructura de directorios:
 

@@ -139,6 +139,17 @@ max-height: 235px;
   
 }
 
+.presentation ul li a {
+
+  color: #f7cda4;
+}
+
+.presentation ul li a:hover {
+
+  color: #f8e1ca;
+  text-decoration: none;
+}
+
 
 
 /*  FOOTER  */
@@ -148,7 +159,7 @@ max-height: 235px;
   min-height: 200px;
   background-color: #e4ddd6;
   padding: 50px 0;
-  color: #FFF;
+  color: #ae9588;
   box-sizing: border-box;
     
 }
@@ -166,7 +177,7 @@ max-height: 235px;
 
 .iconos-sociales	ul li i {
   
-    color: aliceblue;
+    color: #ae9588;
     font-size: 1.5em;
 
 	}
