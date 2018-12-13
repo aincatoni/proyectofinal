@@ -116,7 +116,6 @@ box-sizing: border-box;
 
 .contenedor-slider {
 
-max-height: 235px;
 
 }
 
@@ -130,7 +129,6 @@ max-height: 235px;
 
   color: #72c5c7;
   
-
 }
 
 .proximas-fechas {
@@ -138,7 +136,10 @@ max-height: 235px;
   padding: 0;;
   
 }
-
+.presentation {
+  display: block;
+  position: relative;
+}
 .presentation ul li a {
 
   color: #f7cda4;
@@ -150,6 +151,10 @@ max-height: 235px;
   text-decoration: none;
 }
 
+.spotify {
+
+  max-width: 100%;
+}
 
 
 /*  FOOTER  */
@@ -182,7 +187,13 @@ max-height: 235px;
 
 	}
 
-
+.mic {
+  position: absolute;
+  top: 17px;
+  right: 15px;
+  font-size: 1.1em;
+  color: #c39e82;
+}
 
 
 /* MEDIAQUERIES */
